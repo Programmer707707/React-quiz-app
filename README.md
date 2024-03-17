@@ -8,16 +8,17 @@ To get started with the React Quiz App, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Programmer707707/React-quiz-app.git
 
 
 2. Navigate to the project directory:
 
-cd your-repository
+cd React-quiz-app
 
 
 3. Install the required npm modules:
 
+npm install
 
 ## Running the App
 
